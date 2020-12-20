@@ -1,11 +1,12 @@
 //  https://gitee.com/qingfengtaizi/wxmp.git
+
 plugins {
     id 'java'
     id 'io.spring.dependency-management' version '1.0.9.RELEASE'
 }
 
 group = 'com.hermit'
-version = '1.0-SNAPSHOT1.0-SNAPSHOT'
+version = '1.0-SNAPSHOT'
 
 sourceCompatibility = targetJavaVersion
 targetCompatibility = targetJavaVersion
